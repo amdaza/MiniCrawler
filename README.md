@@ -1,0 +1,2 @@
+# MiniCrawler
+Simple crawler
