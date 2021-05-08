@@ -14,16 +14,16 @@ FBI subpoenaed Apple for data of Sci-Hub founder
 https://twitter.com/ringo_ring/status/1390782451140767749
 iPad Camera Multitasking
 https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking
-Linux Foundation starts AgStack, an open-source agtech initiative
-https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/
 The Byte Order Fiasco
 https://justine.lol/endian.html
+Linux Foundation starts AgStack, an open-source agtech initiative
+https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/
 Apple tries to get Epic to admit there's porn on its store
 https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388
-Ruby Garbage Collection Deep Dive: Compaction
-https://jemma.dev/blog/gc-compaction
 Lowkey (YC S18) is hiring senior engineers (full-stack and iOS) who like games
 https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748
+Ruby Garbage Collection Deep Dive: Compaction
+https://jemma.dev/blog/gc-compaction
 Rust for Windows 0.9
 https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/
 Cyberattack Forces a Shutdown of a Top U.S. Pipeline Operator
@@ -32,6 +32,8 @@ Grazing Goat Problems
 https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/
 A primer on code generation in Cranelift
 https://blog.benj.me/2021/02/17/cranelift-codegen-primer/
+Seeing the Real Faces of Silicon Valley
+https://www.nytimes.com/2021/05/08/business/economy/seeing-the-real-faces-of-silicon-valley.html
 Putting an Ultra-Tiny Linux Board in a Phone Charger Eventually
 https://hackaday.com/2021/05/06/putting-an-ultra-tiny-linux-board-in-a-phone-charger-eventually/
 Fifteen Years Forsaken
@@ -42,18 +44,16 @@ How to Optimize Order by Random()
 https://tpetry.me/20210507-how-to-optimize-order-by-random
 The digital currencies that matter
 https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter
-Dark Matter: The Situation Has Changed
-http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1
 Be in a field where tech is the limit
 https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit
+Dark Matter: The Situation Has Changed
+http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1
 Show HN: Lovetris – Tetris which always gives you the best piece
 https://unrealwill.github.io/lovetris/
 We can 3D print wood now
 https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/
 The Sovietisation of the Mongolian language and challenges of reversal (2020)
 https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html
-Seeing the Real Faces of Silicon Valley
-https://www.nytimes.com/2021/05/08/business/economy/seeing-the-real-faces-of-silicon-valley.html
 The Connoisseur of Number Sequences (2015)
 https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/
 Did Stone Age Humans Shape the African Landscape with Fire 85,000 Years Ago?

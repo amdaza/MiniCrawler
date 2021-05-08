@@ -28,15 +28,16 @@ app.use('/crawl/:id', function (req, res, next) {
   console.log('ID:', req.params.id);
   crawlURL(req.params.id, ()=>{
       console.log("done")
-  }).then(()=>{
+  }).then((links)=>{
     console.log("done")
+    res.status(200).send(JSON.stringify(links))
   }).catch((e) => {
     console.log(e)
     var err = new Error('Not Found');
     err.status = 404;
     next(err);
   });;
-  res.sendStatus(200); 
+  
 });
 
 // catch 404 and forward to error handler
