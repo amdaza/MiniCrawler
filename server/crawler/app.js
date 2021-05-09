@@ -51,7 +51,8 @@ function getErrorResponse (res, data) {
   return res.json({ result: "ERROR", data: data });
 }
 
-// Routes
+// ROUTES
+
 app.use('/lasturls', function (req, res, next) {
   lasturls().then((links) => {
     getOKResponse(res,links);
@@ -61,7 +62,6 @@ app.use('/lasturls', function (req, res, next) {
     getErrorResponse(res,err.message);
     res.status(400);
   });
-  
 });
 
 
