@@ -1,0 +1,68 @@
+
+https://news.ycombinator.com
+Chip shortage is starting to have major real-world consequences
+https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html
+Wikipedia is up!
+https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html
+A review of correlations between big five personality types and life outcomes
+https://dynomight.net/better-personalities/
+OCaml is 25 years old
+https://discuss.ocaml.org/t/25-years-of-ocaml/7813
+Remains of nine Neanderthals found in cave south of Rome
+https://www.theguardian.com/science/2021/may/08/remains-of-nine-neanderthals-found-in-cave-south-of-rome
+Does NMN improve metabolic health in humans?
+https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/
+Legalist is hiring a Director of Sales/Investments
+https://www.legalist.com/careers?gh_jid=4016511004
+Gravity is a double copy of other forces
+https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/
+There’s no such thing as a tree, phylogenetically
+https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
+New technology has enabled cyber-crime on an industrial scale
+https://www.economist.com/international/2021/05/06/new-technology-has-enabled-cyber-crime-on-an-industrial-scale
+A team of Colorado innovators granted a 14-year-old’s wish for a dragon
+https://www.denverpost.com/2021/05/06/make-a-wish-dragon-robot/
+So what’s wrong with 1975 programming? (2016)
+http://varnish-cache.org/docs/trunk/phk/notes.html#so-what-s-wrong-with-1975-programming
+Solving the regex of madness, and snarky answers on StackOverflow (2019)
+https://www.cargocultcode.com/solving-the-zalgo-regex/
+Amazon Fake Reviews Scam Exposed in Data Breach
+https://www.safetydetectives.com/blog/amazon-reviews-leak-report/?__cf_chl_jschl_tk__=68d94aa744d175209f58f23d7a8d1abe537a992b-1620518228-0-AWKYMKnGGipF08ctlTZysfv1gJ-4yzWNRWiePdEd6U7ViOaOx_LvUy2xTpYuQErklma2AP-B6lSO6IKhKTgdGycTuK37qz0QvaMMhlBGVgLs8ozveTJ5-BGNgBO4akiWlFYxLo3GernZBW6NpFbvWIWb7yargGHoi1KtAQYTo5PQuL-sOZk_r5LezxO1EqmoxJTzrF_9uvOeltNAlvKIyxtwfe-CQsuMPzZ9kuArNoZxK0W9zySjtceJ3z0nU7vP1hOkcGvKo9detAnqItSuRq4MuJRP88qDnCnhmv9qYn7MaFK6Sn0a1EZ0g37_znY3i2dUncalNvxyagkbtW2SXyLNIOXYCKnOBU6NAjrSsi-TtjyuRJCeoCYWOCvHf-2EYDn59rMUr319deKBCmumHbu5L4t1GV2DEEHXYGj6iGmzex9lacF3lPbcrX5vDnvNNjIbb2v9Kg0D8r9wbcyFEVD4MbED7QCu6Z-sw9OWHUHizQHeWlQ5W8T0fqjrYuRbww
+Snap Judgment: A brief history of trick photography
+https://www.laphamsquarterly.org/roundtable/snap-judgment
+LAC: An old-school open-source combat flight simulator game
+https://askmisterwizard.com/2019/LinuxAirCombat/IntroducingLinuxAirCombat.htm
+Service-Oriented vs. Monolith: Organizational Perspective
+https://p99th.substack.com/p/microservices-vs-monolith
+The Wrong Abstraction (2016)
+https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+Gnuplot is not GNU
+http://www.gnuplot.info/faq/faq.html#x1-70001.2
+Startup Growth Calculator (2014)
+http://growth.tlb.org/
+When the Tab Comes Due: Challenges in the Cost Structure of Browser Tab Usage
+https://joe.cat/CHI-browser-tabs/
+Child's burial 78k years ago in Kenya was a Homo sapiens milestone
+https://www.reuters.com/lifestyle/science/childs-burial-78000-years-ago-kenya-was-homo-sapiens-milestone-2021-05-05/
+AMD EPYC Server CPUs Capture Highest Market Share Gains from Intel in 15 Years
+https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years
+OpenDrop
+http://www.gaudi.ch/OpenDrop/
+Commodore’s Assemblers: Overview
+https://www.pagetable.com/?p=1518
+EFF Questions Methodology Behind Dartmouth Cheating Allegations [pdf]
+https://www.eff.org/files/2021/04/14/fire_and_eff_letter_to_dartmouth_college_march_30_2021.pdf
+PfSense – WireGuard Returns as Experimental Package
+https://www.netgate.com/blog/pfsense-wireguard-returns-as-an-experimental-package.html
+How I Practice Piano
+https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
+Dropping cache didn’t drop cache
+https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html
+There’s no place for expensive laptops with 8GB of RAM anymore
+https://www.techradar.com/uk/news/theres-no-place-for-expensive-laptops-with-8gb-of-ram-anymore
+API
+https://github.com/HackerNews/API
+Legal
+http://www.ycombinator.com/legal/
+Apply to YC
+http://www.ycombinator.com/apply/
