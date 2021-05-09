@@ -1,0 +1,21 @@
+<div class="row">
+    <div class="twelve-columns">
+        <div ng-show="$ctrl.errorMessage" class="error-message">
+            {{$ctrl.errorMessage}}
+        </div>
+    </div>
+    <div class="twelve columns">
+        <ul>
+            <li ng-repeat="url in $ctrl.urls" class="four columns url-items">
+                <div class="link-view">
+                    <div class="url-title">{{ url.title }}</div>
+                    <div class="url-uri" title="Busque enlaces en esta url">
+                        <div ng-click="$ctrl.newSearch(url.link)">
+                            {{ url.link }} 
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

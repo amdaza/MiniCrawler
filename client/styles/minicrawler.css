@@ -1,0 +1,50 @@
+body {
+    color: #6a6a6a;
+    background-color: #f6f6f6;
+}
+
+.near-you-space-holder {
+    height: 5.2rem;
+}
+
+header.main-header {
+    background-color: #7522C5;
+}
+
+header.main-header a {
+    font-family: 'Baloo Bhai', 'Arial Black', cursive, sans-serif;
+    color: #FFF;
+    font-size: 30px;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+.main-footer {
+    background-color:skyblue;
+}
+
+.main-footer h1 {
+    color: #000;
+    font-size: 1.4em;
+}
+
+.error-message {
+    color:tomato;
+}
+
+.url-items {
+    list-style: none;
+    width: 100%;
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 7px;
+    padding: 0 4px 0 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color: #f8cffc;
+}
+
+.url-items .url-title{
+    color: #444;
+}
+

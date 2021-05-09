@@ -1,0 +1,28 @@
+{
+  "name": "crawler_server",
+  "version": "1.0.0",
+  "description": "Crawler from urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amdaza/MiniCrawler.git"
+  },
+  "author": "amdaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amdaza/MiniCrawler/issues"
+  },
+  "homepage": "https://github.com/amdaza/MiniCrawler#readme",
+  "dependencies": {
+    "@angular/router": "^0.2.0",
+    "angular": "^1.5.7",
+    "skeleton-css": "^2.0.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
