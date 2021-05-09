@@ -7,7 +7,8 @@ var cors = require('cors');
 let config = require('config');
 
 var indexRouter = require('./routes/index');
-const crawlURL = require('./routes/crawlURL')
+const crawlURL = require('./routes/crawlURL');
+const lasturls = require('./routes/lasturls');
 
 var app = express();
 const port = 5000;
@@ -52,27 +53,31 @@ function getErrorResponse (res, data) {
 
 // Routes
 app.use('/lasturls', function (req, res, next) {
+  lasturls().then((links) => {
+    getOKResponse(res,links);
+    res.status(200);
 
+  }).catch((err) => {
+    getErrorResponse(res,err.message);
+    res.status(400);
+  });
   
 });
 
 
 app.use('/crawl/:id', function (req, res, next) {
-  console.log('Request Type:', req.method);
-  console.log('ID:', req.params.id);
+  // console.log('Request Type:', req.method);
+  // console.log('ID:', req.params.id);
   
   crawlURL(req.params.id)
   .then((links) => {
     getOKResponse(res,links);
+    res.status(200);
 
-    res.status(200)
-      .send();
   }).catch((err) => {
     getErrorResponse(res,err.message);
-
-    res.status(400)
-      .send();
-  });;
+    res.status(400);
+  });
   
 });
 
