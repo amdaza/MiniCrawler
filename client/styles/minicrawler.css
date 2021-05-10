@@ -21,6 +21,7 @@ header.main-header a {
 
 .main-footer {
     background-color:skyblue;
+    padding-top: 20px;
 }
 
 .main-footer h1 {
@@ -48,3 +49,28 @@ header.main-header a {
     color: #444;
 }
 
+h2{
+    font-size: 1.2em;
+}
+
+.url-uri{
+    cursor:pointer;
+}
+
+
+
+.formHeader {
+  /* La magia de FLEX */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  
+  background-color:skyblue;
+  padding: 20px;
+}
+
+.formHeader h1{
+  font-size: 4em;
+  margin-bottom: 0;
+}

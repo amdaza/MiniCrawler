@@ -10,7 +10,7 @@ angular
     this.crawlUrl = function(url) {
         // console.log("before", url)
          url = encodeURIComponent(url);
-        console.log("URL in SERVice", url, Properties.serverUrl + Properties.endpointCrawl + "/" + url)
+        // console.log("URL in SERVice", url, Properties.serverUrl + Properties.endpointCrawl + "/" + url)
         //if (validURL(url)){
             return $http.get(Properties.serverUrl + Properties.endpointCrawl + "/" + url);
         // } else {

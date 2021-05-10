@@ -1,4 +1,14 @@
 <div class="row">
+    <div class="twelve columns" ></div>
+    <form-new-crawl new-crawl-to-click="$ctrl.newSearch(url)"></form-new-crawl>
+</div>
+<div class="row">
+    <div class="twelve columns" >
+        <p>Si aún no ha hecho ninguna búsqueda, le mostramos las últimas guardadas en el servidor.</p>
+        <p>Puede hacer click en cualquier url de la lista para buscar sus enlaces</p>
+    </div>
+</div>
+<div class="row">
     <div class="twelve-columns">
         <div ng-show="$ctrl.errorMessage" class="error-message">
             {{$ctrl.errorMessage}}

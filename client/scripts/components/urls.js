@@ -4,18 +4,13 @@ var ctrl = function (urlsService, $scope, $rootRouter) {
     this.errorMessage;
 
     self.work = () => {
-        console.log($scope.url);
+        // console.log($scope.url);
 
         if($scope.url){
-                //params are the url params
-            console.log("SCOPE",$scope.url)
-            // Get Product Data
-           // console.log("llega al routeronactivate", url)
-
             urlsService.crawlUrl($scope.url) // Returns a promise
             .then( (response) => {
                 this.errorMessage = null;
-                console.log("response",response)
+                // console.log("response",response)
 
                 // In 'data' property it's its body
                 self.urls = response.data.data;
@@ -35,9 +30,6 @@ var ctrl = function (urlsService, $scope, $rootRouter) {
                 // In 'data' property it's its body
                 self.urls = response.data.data;
 
-                // self.urls.forEach(element => {
-                //     element.urlEncoded = customEncode(element.link);
-                // });
             }).catch( (error) => {
                 console.log(error);
 
@@ -46,18 +38,13 @@ var ctrl = function (urlsService, $scope, $rootRouter) {
         }
     }
 
-    // self.$onInit = function () {
-    //     console.log("init")
-    //     self.work();
-    // };
 
     self.$routerOnActivate = function (next) {
-        console.log("router activate",$scope.url);
+        // console.log("router activate",$scope.url);
         self.work();
     }
 
     self.newSearch = (url) =>{
-        console.log("pasa")
         $scope.url = url;
         self.work();
     }
